@@ -17,6 +17,7 @@ The project is created as part of   # Module 17 Automation Assignment.
 🧪How to run it-
 
 -Goto terminal and write command npm run test_q1/test_q2/test_q3 to run the test cases sequentially
+
 -Goto terminal and write command npm run test to run all the test cases
 -Goto terminal and write command npm run getReport to generate the #Allure report
 
