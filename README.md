@@ -23,11 +23,13 @@ The project is created as part of   # Module 17 Automation Assignment.
 -Goto terminal and write command npm run getReport to generate the #Allure report
 
 🧪 Test Scenarios Covered
-    ✅Q1 – Locked Out User
+    
+  ✅Q1 – Locked Out User
 - Login using `locked_out_user`
 - Verify error message is displayed
 - Ensure login is unsuccessful
-    ✅ Q2 – Standard User Purchase Journey 
+
+   ✅ Q2 – Standard User Purchase Journey 
 - Login using `standard_user`
 - Reset App State
 - Add three items to cart
@@ -38,7 +40,8 @@ The project is created as part of   # Module 17 Automation Assignment.
 - Verify successful order message
 - Reset App State again
 - Logout successfully
-    ✅ Q3 – Performance Glitch User 
+
+  ✅ Q3 – Performance Glitch User 
 - Login using `performance_glitch_user`
 - Reset App State
 - Filter products by Name (Z → A)
